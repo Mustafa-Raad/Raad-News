@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Raad News</string>
+    <string name="dailog_title">Contact ME</string>
+    <string name="dialog_msg">Facebook: Mustafa Raad Hassany\nG-mail: Mustafa.hassany229\nPhone: 0093(0) 747 347380</string>
+    <string name="about_app_text">Raad News is a News portal application for informing its users about the most important events and accidents of local and global countries around the world.\nThis app uses realtime database which works online and all News sources are taken from valid local and global NEWS agencies.\n\nApp version: v1.1R\n\nDeveloped by: \nMustafa Raad Hassany</string>
+    <string name="about_app_title">About app</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--<item-->
+        <!--android:id="@+id/addPost"-->
+        <!--android:title="Add Post"-->
+        <!--app:showAsAction="always"-->
+        <!--android:icon="@mipmap/ic_add_white_24dp"/>-->
+    <!--<item-->
+        <!--android:id="@+id/zi"-->
+        <!--android:title="zoomin"-->
+        <!--android:icon="@drawable/ic_zoomin"-->
+        <!--app:showAsAction="always" />-->
+    <!--<item-->
+        <!--android:id="@+id/zo"-->
+        <!--android:title="zoomout"-->
+        <!--android:icon="@drawable/ic_zoomout"-->
+        <!--app:showAsAction="always" />-->
+    <item
+        android:id="@+id/contact"
+        android:title="Contact Me"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/about"
+        android:title="About App"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_info3"/>
+    <item
+        android:id="@+id/quite"
+        android:title="Quite"
+        app:showAsAction="never"/>
+</menu>
